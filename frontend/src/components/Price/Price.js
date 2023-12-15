@@ -13,7 +13,7 @@
 // Price.defaultProps = {
 //   locale: 'en-US',
 //   currency: 'USD',
-};
+// };
 import React from 'react';
 
 export default function Price({ price, locale, currency }) {
